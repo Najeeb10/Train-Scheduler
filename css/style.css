@@ -1,0 +1,55 @@
+
+.schedule-container {
+     min-width: 800px;
+}
+
+.input-container {
+     min-width: 800px;
+}
+
+ body {
+        background: url('../image/face.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+   }
+
+ table {
+     border-collapse: separate;
+     border-spacing: 6px;
+    }
+
+.jumbotron {
+     color: #f8d234;
+     background-color: rgba(0,0,0,0.3);
+     min-width: 800px;
+}
+
+footer{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    text-align: center;
+    color: #f8d234;
+}
+
+.panel {
+    background-color: #eaa88f;
+}
+
+.panel-primary>.panel-heading{
+    color: #4CAF50;
+    background-color: #3a7598;
+    border-color: #337ab7;
+}
+
+}
+ 
+
+ .panel-primary {
+    background-color: #a3494e;
+ }
